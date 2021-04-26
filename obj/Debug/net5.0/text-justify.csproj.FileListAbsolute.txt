@@ -1,0 +1,16 @@
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\text-justify.csprojAssemblyReference.cache
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\text-justify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\text-justify.AssemblyInfoInputs.cache
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\text-justify.AssemblyInfo.cs
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\text-justify.csproj.CoreCompileInputs.cache
+C:\Users\parsa\Desktop\text-justify\bin\Debug\net5.0\text-justify.exe
+C:\Users\parsa\Desktop\text-justify\bin\Debug\net5.0\text-justify.deps.json
+C:\Users\parsa\Desktop\text-justify\bin\Debug\net5.0\text-justify.runtimeconfig.json
+C:\Users\parsa\Desktop\text-justify\bin\Debug\net5.0\text-justify.runtimeconfig.dev.json
+C:\Users\parsa\Desktop\text-justify\bin\Debug\net5.0\text-justify.dll
+C:\Users\parsa\Desktop\text-justify\bin\Debug\net5.0\ref\text-justify.dll
+C:\Users\parsa\Desktop\text-justify\bin\Debug\net5.0\text-justify.pdb
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\text-justify.dll
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\ref\text-justify.dll
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\text-justify.pdb
+C:\Users\parsa\Desktop\text-justify\obj\Debug\net5.0\text-justify.genruntimeconfig.cache
